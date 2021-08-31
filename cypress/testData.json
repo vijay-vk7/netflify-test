@@ -1,0 +1,19 @@
+
+{
+  "entries" : 
+  [
+    { "name": "SQL Injection", "averageImpact": 10.21, "cases": "1.25M", "complexity": "medium" },
+    {"name": "Session hijack", "averageImpact": 5.79, "cases": "9024", "complexity": "high" },
+    { "name": "XSS", "averageImpact": 2.19, "cases": "29850", "complexity": "low" },
+    { "name": "Phishing", "averageImpact": 7.18, "cases": "25.12M", "complexity": "low" },
+    { "name": "Man in the Middle", "averageImpact": 8.12, "cases": "95k", "complexity": "high" },
+    { "name": "Password attack", "averageImpact": 5, "cases": "32.85M", "complexity": "low" }
+  ],
+  "backEndToFrontEndNamesMapper":
+  {
+    "name":"Name",
+    "cases":"Number of cases",
+    "averageImpact":"Average impact score",
+    "complexity":"Complexity"
+  }
+}
