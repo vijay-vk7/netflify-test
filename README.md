@@ -22,3 +22,4 @@ npx cypress open
 ```
 ```
 Select the test spec file "table-test.spec.js" from the cypress test runner
+
